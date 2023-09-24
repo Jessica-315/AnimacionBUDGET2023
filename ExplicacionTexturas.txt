@@ -1,0 +1,14 @@
+CARPETA										OBJETO
+
+\Texturas\Fabric030_1K-JPG							Asientos de sillas
+\Texturas\Marble016_1K-JPG							Vidrio de la mesa
+\Texturas\WoodFloor047_1K-PNG							Piso del escenario
+\Texturas\Wood066_1K-JPG							Patas de la silla
+
+\10222_coffee_table_L3.123cf18ff633-6e29-4da9-9c8c-92a81752a5cc			Material de la mesa
+\c30lumexfif4-eb_house_plant_01\eb_house_plant_01				Textura de la planta grande
+\Plaster001_1K-PNG								Pared de fondo
+\87-laptop-obj_blend_txtr							Laptop
+
+\Pantalla									Imagenes que cubren la pantalla
+PlaneacionF.png									Palabra en el proyector
